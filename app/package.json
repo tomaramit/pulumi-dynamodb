@@ -1,0 +1,12 @@
+{
+    "name": "aws-ts-eks",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "0.16.11",
+        "@pulumi/aws-infra": "0.16.2",
+        "@pulumi/aws": "0.16.6",
+        "@pulumi/eks": "0.16.4"
+    }
+}
